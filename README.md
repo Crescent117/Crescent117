@@ -1,6 +1,6 @@
 ### 성실하고 발전하는 개발자 문덕용입니다. 👋
 
-![내가원하는거](https://img.shields.io/badge/성실-신중c-blue)
+![내가원하는거](https://img.shields.io/badge/성실--blue)
 <!--
 **Crescent117/Crescent117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
