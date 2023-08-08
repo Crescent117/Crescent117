@@ -28,7 +28,7 @@
  <br/>
 
 <div>
-	![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Crescent117&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Crescent117&layout=compact)
 </div>
 
 
