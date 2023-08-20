@@ -1,3 +1,28 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=a3cca2&height=300&section=header&text=Welcome&fontSize=90)
+<div align="center">
+	
+## About Me
+<br>
+Link
+<br>
+👉<a href="http://melonicedlatte.com/">
+<img src="https://img.shields.io/badge/Notion-grey" style="height : auto; margin-left : 8px; margin-right : 8px;"/>
+</a>👈
+<br>
+<br>
+☕☕Email☕☕
+	<br>
+joiede7@gmail.com
+	<br>
+	<br>
+반갑습니다.
+	<br>
+제 이름은 문덕용이고 웹개발을 공부하고 있어요!
+	<br>
+ 현재 프로젝트를 만들면서 공부를 하고 있습니다.
+	
+</div>
+
 ## Skills
 <div align="center">
 
